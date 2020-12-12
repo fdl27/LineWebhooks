@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ImplementasiFiturJavaApplication<ImplementasiFiturJava>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.dicoding.ImplementasiFiturJava.ImplementasiFiturJavaApplication",
+            "projectName": "ImplementasiFiturJava",
+            "args": ""
+        }
+    ]
+}
